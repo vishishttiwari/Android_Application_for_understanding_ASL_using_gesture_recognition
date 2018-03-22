@@ -1,4 +1,4 @@
-# Android-Application-for-understanding-ASL-using-gesture-recognition
+# Android Application for understanding ASL using gesture recognition
 An Android Application that uses gesture recognition to understand alphabets of gesture recognition 
 
 With a rising demand in disability solutions, sign language recognition has become an important
